@@ -6,7 +6,7 @@
 
 <li> Simple Calculator using PHP : 
 <a href="Simple Calculator Using PHP/cal.php"> Simple Calculator</a><br></li>
-<img src="Simple Calculator Using PHP/output.png" height="200" width="300" /> 
+<img src="Simple Calculator Using PHP/output.png" height="200" width="350" /> 
 <br>
 
  
