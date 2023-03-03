@@ -12,6 +12,16 @@
         body {
             margin-left: 20px;
         }
+        form {
+            border: 1px solid #1f1f1f;
+            border-radius: 5px;
+            padding: 20px;
+            position: absolute;
+            align-items: center;
+            top : 35%;
+            left: 37%;
+            background-color: rgba(3, 252, 57, 50%);
+        }
     </style>
 </head>
 
@@ -19,6 +29,8 @@
     <br><br>
     <center>
         <form action="download.php" method="post" enctype="multipart/form-data">
+            <h2>Upload Files</h2>
+            <br>
             <input type="file" name="myfile" />
             <br><br>
             <input type="submit" name="upload" value="Upload File" />
