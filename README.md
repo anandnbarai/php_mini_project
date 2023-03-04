@@ -9,4 +9,8 @@
 <img src="Simple Calculator Using PHP/output.png" height="200" width="400" /> 
 <br>
 
+<li> Chessboard using PHP : 
+<a href="Chessboard using PHP/chessboard.php"> Simple Calculator</a><br></li>
+<img src="Chessboard using PHP/chessboard.png" height="200" width="400" /> 
+<br>
  
