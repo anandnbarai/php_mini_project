@@ -11,6 +11,6 @@
 
 <li> Chessboard using PHP : 
 <a href="Chessboard using PHP/chessboard.php"> Simple Calculator</a><br></li>
-<img src="Chessboard using PHP/chessboard.png" height="200" width="400" /> 
+<img src="Chessboard using PHP/chessboard.png" height="400" width="400" /> 
 <br>
  
