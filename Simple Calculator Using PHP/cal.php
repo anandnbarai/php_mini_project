@@ -58,14 +58,12 @@
 					break;
 				case 'divide':
 					if ($num2 == 0) {
-						echo "Cannot divided by zero";
+						$result = "Undefined, You Can not divide any number by Zero.";
 					} else {
 						$result = $num1 / $num2;
 					}
 					break;
 			}
-
-
 			echo "<br><b> Result is: " . $result . "</b>";
 		}
 		?>
